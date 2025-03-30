@@ -1,0 +1,14 @@
+- name: Home
+  url: /
+- name: Praktische informatie
+  url: /practical.html
+- name: Programma & Line-up
+  url: /lineup.html
+- name: RSVP
+  url: /rsvp.html
+- name: FAQ
+  url: /faq.html
+- name: Cadeautip
+  url: /gift.html
+- name: Contactinformatie
+  url: /contact.html

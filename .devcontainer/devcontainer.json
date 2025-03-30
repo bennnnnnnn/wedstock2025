@@ -1,0 +1,11 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/jekyll",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "sissel.shopify-liquid",
+                "firefox-devtools.vscode-firefox-debug"
+            ]
+        }
+    }
+}

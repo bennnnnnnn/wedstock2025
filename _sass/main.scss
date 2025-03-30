@@ -1,0 +1,60 @@
+body {
+    background-image: url('/assets/img/Website achtergrond A met tekst.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    width: 100%;
+}
+
+@media (max-width: 811px) {
+    body {
+        background-size: contain;
+        background-repeat: repeat-y;
+        background-attachment: scroll;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        background-size: contain;
+        background-repeat: repeat-y;
+        background-attachment: scroll;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        background-size: contain;
+        background-repeat: repeat-y;
+        background-attachment: scroll;
+    }
+}
+
+.navbar-toggler {
+    border: none;
+    outline: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath stroke="rgba%28255, 255, 255, 0.5%29" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+}
+
+.navbar-collapse {
+    transition: transform 0.3s ease-in-out;
+}
+
+.navbar-collapse.collapsing {
+    transform: scale(0.95);
+}
+
+.navbar-collapse.show {
+    transform: scale(1);
+}
