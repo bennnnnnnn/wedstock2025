@@ -1,42 +1,13 @@
 body {
-    background-image: url('/assets/img/Website achtergrond A met tekst.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    min-height: 100vh;
-    background-attachment: fixed;
     margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     width: 100%;
+    color: black;
 }
 
-@media (max-width: 811px) {
-    body {
-        background-size: contain;
-        background-repeat: repeat-y;
-        background-attachment: scroll;
-    }
-}
-
-@media (max-width: 768px) {
-    body {
-        background-size: contain;
-        background-repeat: repeat-y;
-        background-attachment: scroll;
-    }
-}
-
-@media (max-width: 480px) {
-    body {
-        background-size: contain;
-        background-repeat: repeat-y;
-        background-attachment: scroll;
-    }
-}
 
 .navbar-toggler {
     border: none;
@@ -57,4 +28,32 @@ body {
 
 .navbar-collapse.show {
     transform: scale(1);
+}
+
+.textblock {
+    width: 100%;
+    max-width: 600px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20em;
+}
+
+.textblock:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.textblock:focus-visible {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.textblock:focus-within {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
