@@ -12,7 +12,7 @@ Overnachtingsmogelijkheden in de buurt:
 - ['t Greefsch Geluck](https://www.tgreefschgeluck.be/)
 - [AirBnB](https://www.airbnb.be/rooms/899724686357463659?check_in=2025-03-01&check_out=2025-03-06&guests=1&adults=1&s=67&unique_share_id=1068f6ca-bbe8-4dc6-b11d-a7f19422eaf8&source_impression_id=p3_1741789712_P3yZ6TCtn_-bPyU_)
 - [Vakantiewoning De Zandloper](https://www.vakantiewoning-de-zandloper.be/index.php/nl)
-- [HotelDennenhof](https://www.hoteldennenhof.be/)
+- [Hotel Dennenhof](https://www.hoteldennenhof.be/)
 - [Logee Congé](https://www.instagram.com/logeeconge/?hl=nl)
 - [Uw eigen bed](https://www.uweigenbed.be)
 
