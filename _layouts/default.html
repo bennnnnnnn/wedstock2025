@@ -14,10 +14,12 @@
 
 <body>
     {% include navigation.html %}
-    {% if page.title != "Home" %}<h1>{{ page.title }}</h1>{% endif %}
-    <div class="textblock">
+    {% if page.title != "Home" %}
+    <h1 id="page_title">{{ page.title }}</h1>
+    {% endif %}
+    {% if page.title != "Home" %}<div class="textblock">{% endif %}
         {{ content }}
-    </div>
+        {% if page.title != "Home" %} </div>{% endif %}
 </body>
 
 </html>

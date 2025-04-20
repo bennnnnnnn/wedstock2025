@@ -13,7 +13,7 @@ Het einde is voorzien om 03u00.
 
 #### Locatie:
 Club K, Kapellensteenweg 234, Kalmthout
-Google Maps-link: https://g.co/kgs/Ck9EF9m
+[Google Maps-link](https://g.co/kgs/Ck9EF9m)
 
 #### 🛻Parkeren:
 Er zijn een 25-tal parkeerplaatsen aan Club k zelf (achterkant gebouw).
