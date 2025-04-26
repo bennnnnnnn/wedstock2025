@@ -16,5 +16,5 @@ Overnachtingsmogelijkheden in de buurt:
 - [Logee Congé](https://www.instagram.com/logeeconge/?hl=nl)
 - [Uw eigen bed](https://www.uweigenbed.be)
 
-#### 🌦️ Wat als het regent? 
+#### Wat als het regent? 
 Geen zorgen, het festival gaat door in een concertzaal en ook buiten is er voldoende plaats om droog te staan.
