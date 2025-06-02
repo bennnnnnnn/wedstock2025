@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "RSVP"
+title: "Bevestig aanwezigheid"
 ---
 
 
-Geef [hier](https://docs.google.com/forms/d/e/1FAIpQLSd-4XtPNjePSZAwv6EnDl4x0zvkpIspbK4orepUSQDmJaN7RA/viewform?usp=header) aan of en met hoeveel personen je komt!
+Klaar voor ons trouwfestival? Laat [hier](https://docs.google.com/forms/d/e/1FAIpQLSd-4XtPNjePSZAwv6EnDl4x0zvkpIspbK4orepUSQDmJaN7RA/viewform?usp=header) weten of je erbij bent en met hoeveel!
